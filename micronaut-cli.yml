@@ -1,0 +1,5 @@
+profile: kafka
+defaultPackage: kafka.demo
+---
+testFramework: junit
+sourceLanguage: java
